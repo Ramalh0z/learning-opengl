@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# build output
+build/
+build/*
+
+# extras
+.vs/
+compileData.scor.t0000
+.vs/LearningOpengl/FileContentIndex/474ca90a-c1c1-4a2b-92b5-f9fced8b2437.vsidx
