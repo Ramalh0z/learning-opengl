@@ -6,5 +6,5 @@ workspace "LearningOpengl"
     outputdir = "/build/%{cfg.buildcfg}/"
 
 include "third_party/glad"
-include "third_party/glfw"
+include "third_party/" -- glfw
 include "engine"

@@ -5,7 +5,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "engine\Engine.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glad", "third_party\glad\glad.vcxproj", "{DD62977C-C999-980D-7286-7E105E9C140F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glfw", "third_party\glfw\glfw.vcxproj", "{9563977C-819A-980D-2A87-7E10169D140F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glfw", "third_party\glfw.vcxproj", "{9563977C-819A-980D-2A87-7E10169D140F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
